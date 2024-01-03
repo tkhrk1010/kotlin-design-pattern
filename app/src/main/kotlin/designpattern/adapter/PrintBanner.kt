@@ -1,4 +1,4 @@
-package kotlinDesignPattern.Adapter
+package designpattern.adapter
 
 class PrintBanner(private val banner: Banner) : Print() {
     constructor(string: String) : this( Banner(string) )

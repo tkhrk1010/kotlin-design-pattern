@@ -1,6 +1,6 @@
-package kotlinDesignPattern.FactoryMethod.idcard
+package designpattern.factorymethod.idcard
 
-import kotlinDesignPattern.FactoryMethod.framework.*
+import designpattern.factorymethod.framework.*
 class IDCard : Product {
     constructor(owner: String) {
         println("${owner}のカードを作ります。")

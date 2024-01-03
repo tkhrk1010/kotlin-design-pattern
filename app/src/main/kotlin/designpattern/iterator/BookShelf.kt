@@ -1,4 +1,4 @@
-package kotlinDesignPattern.Iterator
+package designpattern.iterator
 
 // implement Aggregate
 class BookShelf : Aggregate<Book> {

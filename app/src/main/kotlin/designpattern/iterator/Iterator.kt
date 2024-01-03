@@ -1,4 +1,4 @@
-package kotlinDesignPattern.Iterator
+package designpattern.iterator
 
 interface Iterator<T> {
     fun hasNext(): Boolean

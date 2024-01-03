@@ -1,6 +1,6 @@
-package kotlinDesignPattern.FactoryMethod.idcard
+package designpattern.factorymethod.idcard
 
-import kotlinDesignPattern.FactoryMethod.framework.*
+import designpattern.factorymethod.framework.*
 class IDCardFactory : Factory() {
     private val owners = mutableListOf<String>()
     override fun createProduct(owner: String): Product {

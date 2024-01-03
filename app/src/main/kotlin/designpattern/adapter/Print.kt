@@ -1,4 +1,4 @@
-package kotlinDesignPattern.Adapter
+package designpattern.adapter
 
 abstract class Print {
     abstract fun printWeak()

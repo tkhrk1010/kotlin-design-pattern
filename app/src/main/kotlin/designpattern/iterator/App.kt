@@ -1,8 +1,8 @@
-package kotlinDesignPattern.Iterator
+package designpattern.iterator
 
 class App {
     fun main() {
-        println("Iterator")
+        println("iterator")
         val bookShelf = BookShelf()
         bookShelf.appendBook(Book("Around the World in 80 Days"))
         bookShelf.appendBook(Book("Bible"))

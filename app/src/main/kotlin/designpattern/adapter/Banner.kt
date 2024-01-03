@@ -1,4 +1,4 @@
-package kotlinDesignPattern.Adapter
+package designpattern.adapter
 
 class Banner(private val string: String) {
     fun showWithParen() {

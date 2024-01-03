@@ -1,4 +1,4 @@
-package kotlinDesignPattern.Iterator
+package designpattern.iterator
 
 class BookShelfIterator(private val bookShelf: BookShelf) : Iterator<Book> {
     private var index: Int = 0

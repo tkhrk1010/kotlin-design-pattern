@@ -1,4 +1,4 @@
-package kotlinDesignPattern.FactoryMethod.framework
+package designpattern.factorymethod.framework
 
 abstract class Factory {
     fun create(owner: String): Product {

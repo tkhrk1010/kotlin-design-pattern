@@ -41,7 +41,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass.set("kotlinDesignPattern.AppKt")
+    mainClass.set("designpattern.AppKt")
 }
 
 tasks.named<Test>("test") {

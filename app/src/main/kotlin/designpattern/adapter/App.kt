@@ -1,8 +1,8 @@
-package kotlinDesignPattern.Adapter
+package designpattern.adapter
 
 class App {
     fun main() {
-        println("Adapter")
+        println("adapter")
         val printBanner: Print = PrintBanner("Hello")
         printBanner.printWeak()
         printBanner.printStrong()
