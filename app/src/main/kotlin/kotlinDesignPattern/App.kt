@@ -15,4 +15,5 @@ fun main() {
     println(App().greeting)
     kotlinDesignPattern.Iterator.App().main()
     kotlinDesignPattern.Adapter.App().main()
+    kotlinDesignPattern.FactoryMethod.App().main()
 }
