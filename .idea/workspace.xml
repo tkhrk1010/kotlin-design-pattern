@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acb5e207-5a90-4931-9ea8-5a00e3001963" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Iterator/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Adapter/App.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Adapter/Banner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Adapter/Print.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Adapter/PrintBanner.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterator/Aggregate.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Iterator/Aggregate.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterator/Book.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterator/BookShelf.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterator/BookShelfIterator.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Iterator/Iterator.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Iterator/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Iterator/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

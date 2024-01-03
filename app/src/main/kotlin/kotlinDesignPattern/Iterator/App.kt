@@ -2,6 +2,7 @@ package kotlinDesignPattern.Iterator
 
 class App {
     fun main() {
+        println("Iterator")
         val bookShelf = BookShelf()
         bookShelf.appendBook(Book("Around the World in 80 Days"))
         bookShelf.appendBook(Book("Bible"))
