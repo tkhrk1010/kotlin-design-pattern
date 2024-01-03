@@ -17,5 +17,5 @@ fun main() {
     designpattern.adapter.App().main()
     designpattern.factorymethod.main()
     designpattern.singleton.main()
-//    designpattern.strategy.App().main()
+    designpattern.strategy.App().main()
 }
