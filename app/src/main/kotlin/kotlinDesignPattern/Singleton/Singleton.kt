@@ -1,4 +1,4 @@
-package kotlinDesignPattern.singleton
+package kotlinDesignPattern.Singleton
 
 class Singleton {
     companion object {
