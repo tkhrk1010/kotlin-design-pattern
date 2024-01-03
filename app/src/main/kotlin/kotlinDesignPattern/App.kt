@@ -16,4 +16,5 @@ fun main() {
     kotlinDesignPattern.Iterator.App().main()
     kotlinDesignPattern.Adapter.App().main()
     kotlinDesignPattern.FactoryMethod.App().main()
+    kotlinDesignPattern.singleton.App().main()
 }
