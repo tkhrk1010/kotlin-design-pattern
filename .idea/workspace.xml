@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acb5e207-5a90-4931-9ea8-5a00e3001963" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/Aggregate.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/Book.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/BookShelf.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/BookShelfIterator.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/Iterator.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Iterator/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/Aggregate.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/Iterator/Aggregate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/Book.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/BookShelf.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/BookShelfIterator.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/Iterator.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -64,10 +62,10 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2aQQCmt8krMjgsFhTWVAjpHweMt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -78,6 +76,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build kotlin-design-pattern.executor": "Run",
+    "Kotlin.AppKt (1).executor": "Run",
+    "Kotlin.AppKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -85,6 +86,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/kotlin/kotlinDesignPattern" />
       <recent name="$PROJECT_DIR$/app/src/main/kotlin/kotlin/designPattern" />
     </key>
   </component>
@@ -94,6 +96,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="kotlinDesignPattern.AppKt" />
       <module name="kotlin-design-pattern.app.main" />
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
